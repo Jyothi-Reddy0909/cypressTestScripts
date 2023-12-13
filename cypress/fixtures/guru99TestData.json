@@ -1,0 +1,12 @@
+{
+    "LoginData": {
+      "username": "jyothiredddylakkiredddy@gmail.com",
+      "password": "Madhu"
+    },
+    
+    "InvalidLoginData": {
+        "username": "jyothiredddylakkireddy@gmail.com",
+        "password": "Madh"
+      }
+   
+  }
